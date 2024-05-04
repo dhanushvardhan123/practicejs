@@ -1,5 +1,4 @@
-var add=function(a, b) 
-  {
+var add=(a, b) => {
     return a + b;
   };
   
